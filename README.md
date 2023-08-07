@@ -2,7 +2,9 @@
 
 this is simple website.
 
-## no Porpose
+## Purpose
+
+this is update in wesite on github.
 
 this is git-scm update.
 
